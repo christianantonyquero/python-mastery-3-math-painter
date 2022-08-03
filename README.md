@@ -39,6 +39,8 @@ How to install requirements:
 pip install -r requirements.txt
 ```
 
+![img.png](files/img.png)
+
 # Input:
 # Output:
 Terminal:
