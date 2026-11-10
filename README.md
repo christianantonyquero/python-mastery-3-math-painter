@@ -30,8 +30,8 @@ Canvas:
 
 ## Install requirements:
 ```
-numpy==1.19.5
-Pillow==8.0.1
+numpy==1.22.0
+Pillow==13.0.0
 ```
 
 How to install requirements:
